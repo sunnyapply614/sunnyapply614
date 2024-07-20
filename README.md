@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
 
 ## Languages and Tools:
+<br><br>
 <table align="center">
   <tr>
     <td align="center" width="96">
