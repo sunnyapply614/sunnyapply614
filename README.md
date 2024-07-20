@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email](ozellamaryleone@gmail.com)
 - 💬 Ask me about `Frontend` or `Backend`
 
-<img align="right" src="https://octodex.github.com/snowtocat" width="300">
 
 ## Knowledges/Experiences/Favorites:
 - 5+ years of experience in React, Node.js, Express.js , async, await
