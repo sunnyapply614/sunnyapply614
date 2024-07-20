@@ -13,29 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm SunnyApply 🏆 </h1>
+<h1 align="center">I LOVE CODING AS MANY OF YOU! 💖</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
 🤔 My core skill is making website smart, clean, fashionable.
-
+👍 Best Online Services
 ✨ I study: React, Solidity, Nodejs, Express, PHP
 
 
 
-## About me:
+## About Me✋:
 - 😄 Fun fact: I'm a Web designer for CMS before
 - 🔭 I’m looking to collaborate on commercial projects and startups
 - 📫 How to reach me: [Email](ozellamaryleone@gmail.com)
 - 💬 Ask me about `Frontend` or `Backend`
 
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+<img align="right" src="https://octodex.github.com/snowtocat" width="300">
 
-## My stack:
+## Knowledges/Experiences/Favorites:
 - 5+ years of experience in React, Node.js, Express.js , async, await
-- 3+ years of experience in CMS
-- 1+ years of experience in Solidity
+- 3+ years of experience in CMS, eCommerce
+- 1+ years of experience in Solidity, Uniswap, Pancake Swap, Crypto Wallet integration
 - 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
 - ❤️ API, RESTful API, GraphQL
 - HTML/CSS, Javascript
@@ -54,12 +54,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></code>
-  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
   <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
@@ -68,15 +62,11 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  /></code>
   <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=solidity" height="30" alt="solidity logo"  /></code>
   <img width="12" />
   <code><img src="https://skillicons.dev/icons?i=golang" height="30" alt="golang logo"  /></code>
   <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  /></code>
-  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  /></code>
   <img width="12" />
@@ -91,14 +81,6 @@ Here are some ideas to get you started:
   <code><img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  /></code>
-  <!--   <img width="12" /> -->
-  <!-- <code><img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  /></code> -->
   <img width="12" />
   <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  /></code>
   <img width="12" />
