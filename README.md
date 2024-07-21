@@ -110,8 +110,8 @@ Here are some ideas to get you started:
 
 ## My Journey
 <div>
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taozhi8833998&layout=compact&theme=onedark" />
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=taozhi8833998&theme=onedark" />
+  <img width="440px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taozhi8833998&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=taozhi8833998&theme=onedark" />
 </div>
 
 ## My Rewards
