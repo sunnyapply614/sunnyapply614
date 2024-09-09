@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 ## Contact Info:
 - Whatsapp : +48 576 899 962
 - Telegram : +33 650 830 289
-- Skype : live:.cid.cae6f8fb74908279![Uploading image.png…]()
 
 ## Languages and Tools:
 <br><br>
