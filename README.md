@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 ## About Me✋:
 - 😄 Fun fact: I'm a Web designer for CMS before
 - 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [Email](ozellamaryleone@gmail.com)
 - 💬 Ask me about `Frontend` or `Backend`
 
 
@@ -41,9 +40,6 @@ Here are some ideas to get you started:
 - git, docker, CI/CD
 - SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
 
-## Contact Info:
-- Whatsapp : +48 576 899 962
-- Telegram : +33 650 830 289
 
 ## Languages and Tools:
 <br><br>
